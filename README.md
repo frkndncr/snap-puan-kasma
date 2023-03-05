@@ -1,11 +1,11 @@
 # Snapchat Puan Kasma Araçı.
 
 # Support
-#### @b3zkurt
+#### @f3rrkan
 
 # Install
 
-git clone https://github.com/B3zkurt/snap-puan-kasma/
+git clone https://github.com/frkndncr/snap-puan-kasma/
 
 cd snap-puan-kasma
 
